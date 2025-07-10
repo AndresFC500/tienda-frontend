@@ -28,3 +28,8 @@ Este proyecto es el frontend de una aplicación de control de inventario y venta
 
 ```bash
 npm install
+```
+
+```sh
+npm run dev
+```
